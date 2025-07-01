@@ -4,7 +4,7 @@
 % Dimension:          2
 % Nodes:              10203
 % Expressions:        5
-% Description:        位移大小, , , , 
+% 
 % Length unit:        m
 % X                       Y                        plate.disp (m)           d(plate.disp,x) (1)      d(d(plate.disp,x),x) (1/m) d(d(d(plate.disp,x),x),x) (1/m^2) d(d(d(d(plate.disp,x),x),x),x) (1/m^3)
 0                         0                        1.6320047557230028E-7    1.9188284583571298E-5    0.004417498620150494       0.49212820323241413               -134.55933919274355
